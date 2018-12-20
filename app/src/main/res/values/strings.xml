@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AmazonMobApp</string>
+    <string name="bookshef">Bookshef</string>
+    <string name="welcome">Welcome Shikha Singh</string>
+    <string name="search"> Search for a book</string>
+    <string name="bestsellers">Best Sellers </string>
+    <string name="viewAll"> View All  </string>
+    <string name="book1">Dan Brown Origin</string>
+    <string name="author1"> by Dan Brown </string>
+    <string name="book2"> The Whistler </string>
+    <string name="author2"> by John Grisham </string>
+    <string name="book3"> Chase The Lion</string>
+    <string name="author3"> by Mark Batterson</string>
+    <string name="book4"> Twilight</string>
+    <string name="author4"> by Stephenie </string>
+    <string name="book5"> The Rules Of Magic</string>
+    <string name="author5"> by Alice Hoffman</string>
+    <string name="book6"> The Seat Of The Soul </string>
+    <string name="author6">by Gary Zukav</string>
+    <string name="newreleases"> Hot New Releases</string>
+</resources>
